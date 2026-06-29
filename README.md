@@ -97,7 +97,7 @@ ResearchFlow-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ResearchFlow-AI.git
+git clone https://github.com/hanishchalicham/Research-Flow-AI.git
 cd ResearchFlow-AI
 ```
 
@@ -172,6 +172,22 @@ memory/history/
 ```
 
 ---
+
+User enters research topic
+        ↓
+Planner Agent creates research plan
+        ↓
+Web Research Agent searches and summarizes sources
+        ↓
+Academic Agent adds deeper research context
+        ↓
+Evidence Validator checks source quality and confidence
+        ↓
+Report Writer creates final markdown report
+        ↓
+Report saved in reports/ folder
+        ↓
+User can view/download from Streamlit dashboard
 
 ## Example Topics
 
